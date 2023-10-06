@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Javasript and Full Stack with this beautiful language
+- 🌱 Spftware Engeneer in AlX, MERN stack with experience
 
 
 <!---
